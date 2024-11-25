@@ -22,12 +22,12 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://skin.940703.xyz/'
+      url: 'https://uptime.940703.xyz/'
     },    
-    {
-      text: 'GitHub',
-      url: 'https://github.com/shaoyouvip/uptime/'
-    },
+    // {
+    //   text: 'GitHub',
+    //   url: 'https://github.com/shaoyouvip/uptime/'
+    // },
     // {
     //   text: '博客',
     //   url: 'https://blog.aizrf.COM/'
